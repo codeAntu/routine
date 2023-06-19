@@ -1,5 +1,10 @@
 [
     {
+        "name": "MAKAUT Holydays",
+        "description": "MAKAUT all holydays of 2023",
+        "id": "MK-H-23"
+    },
+    {
         "name": "BUIE CSE 2nd Sem 2023",
         "description": "Bankura Unnayani Institute of Engineering, Computer Science and Engineering, Second Semester, 2023",
         "id": "BUIE-CSE-2",
